@@ -1,10 +1,12 @@
 body{
     margin: 0;
     padding: 0%;
-    background: black
+    background: black;
 }
 section {
     height:100vh ;
+       background: black;
+    width:100vw;
 }
 
 h1{
@@ -15,7 +17,6 @@ h1{
     transform:translateY(-40%);
     text-align: center;
     width: 100%;
-    padding-top: 10vh;
 
 
 }
